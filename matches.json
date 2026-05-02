@@ -41,33 +41,6 @@
         ]
     },
     {
-        "title": "AFC Wimbledon vs Huddersfield Town",
-        "competition": "ATP Tour",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/afc-wimbledon-vs-huddersfield-town-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
-    },
-    {
-        "title": "Wigan Warriors vs Bradford Bulls",
-        "competition": "NBA",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/wigan-warriors-vs-bradford-bulls-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
-    },
-    {
-        "title": "Valencia vs Atletico Madrid",
-        "competition": "Spanish La Liga",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/valencia-vs-atletico-madrid-live-streaming",
-        "channels": [
-            "LaLiga Tv"
-        ]
-    },
-    {
         "title": "Como vs Napoli",
         "competition": "Italian Serie A",
         "status": "Live",
@@ -79,7 +52,7 @@
     {
         "title": "Arsenal vs Fulham",
         "competition": "English Premier League",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/arsenal-vs-fulham-live-streaming",
         "channels": [
             "Sky Sports Premier League"
@@ -88,7 +61,7 @@
     {
         "title": "Bayer Leverkusen vs RB Leipzig",
         "competition": "Bundesliga",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/bayer-leverkusen-vs-rb-leipzig-live-streaming",
         "channels": [
             "Sky Sports Mix"
@@ -97,7 +70,7 @@
     {
         "title": "Catalans Dragons vs Leigh Leopards",
         "competition": "",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/catalans-dragons-vs-leigh-leopards-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -106,7 +79,7 @@
     {
         "title": "LexisNexis Dragons vs Nottingham Forest Netball",
         "competition": "",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/lexisnexis-dragons-vs-nottingham-forest-netball-live-streaming",
         "channels": [
             "Sky Sports Main Event"
