@@ -32,45 +32,9 @@
         ]
     },
     {
-        "title": "Arsenal vs Fulham",
-        "competition": "English Premier League",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/arsenal-vs-fulham-live-streaming",
-        "channels": [
-            "Sky Sports Premier League"
-        ]
-    },
-    {
-        "title": "Bayer Leverkusen vs RB Leipzig",
-        "competition": "Bundesliga",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/bayer-leverkusen-vs-rb-leipzig-live-streaming",
-        "channels": [
-            "Sky Sports Mix"
-        ]
-    },
-    {
-        "title": "Catalans Dragons vs Leigh Leopards",
-        "competition": "",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/catalans-dragons-vs-leigh-leopards-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
-    },
-    {
-        "title": "LexisNexis Dragons vs Nottingham Forest Netball",
-        "competition": "",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/lexisnexis-dragons-vs-nottingham-forest-netball-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
-    },
-    {
         "title": "NIC Leeds Rhinos vs London Mavericks",
         "competition": "NBA",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/nic-leeds-rhinos-vs-london-mavericks-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -79,7 +43,7 @@
     {
         "title": "Huddersfield Giants vs Warrington Wolves",
         "competition": "",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/huddersfield-giants-vs-warrington-wolves-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -88,7 +52,7 @@
     {
         "title": "Osasuna vs Barcelona",
         "competition": "Spanish La Liga",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/osasuna-vs-barcelona-live-streaming",
         "channels": [
             "Ch16 - Direct Sports SP"
