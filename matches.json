@@ -32,24 +32,6 @@
         ]
     },
     {
-        "title": "Chennai Super Kings vs Mumbai Indians",
-        "competition": "IPL T20",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/chennai-super-kings-vs-mumbai-indians-live-streaming",
-        "channels": [
-            "Sky Sports  Cricket"
-        ]
-    },
-    {
-        "title": "Como vs Napoli",
-        "competition": "Italian Serie A",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/como-vs-napoli-live-streaming",
-        "channels": [
-            "TNT Sports 1"
-        ]
-    },
-    {
         "title": "Arsenal vs Fulham",
         "competition": "English Premier League",
         "status": "Live",
