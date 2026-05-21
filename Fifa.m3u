@@ -1,20 +1,35 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:24 PM 21-05-2026
+#last update time: 11:45:23 PM 21-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/99/c6/8f/14/99c68f14-e1f8-4472-a68b-7a555b5ea4f2.png" group-title="FIFA Live", Draws | FIFA U-17 World Cup 2026™, FIFA U-17 Women's World Cup 2026™ and Youth Olympic Futsal Tournaments Dakar 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e0d7cdd4d6813f18bbbbded7b373569f:1e6a23d21de7201cd8f996a9785ec0d6
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_14_25_35_852426fc-e6f3-4ad9-93ff-8c1a73b49bbe/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779368040
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/07/6f/c5/76/076fc576-0236-4856-b5e9-8b873aba1adf.png" group-title="FIFA Live", Bel Air FC v PTL Bazar Brothers FC | Seychelles Absa Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be8780eee1ad337387c6ee39d82ca3a3:1e08f4014f04c930701e04bd9b4b410b
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_43_c77c2a25-90f9-4ebe-9b0e-73ca83bbf528/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779373140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/98/52/a3/7a/9852a37a-8bac-48bf-88b9-1dd5845c1dd3.png" group-title="FIFA Live", AS Douanes v ASN Nigelec | Super Ligue 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f814501fcde7381f8fa5266d689786ac:de2c435dd7ced05213146e56c329b201
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_09_51_50_fed91e71-c3dd-40ac-bede-979761711b87/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779377640
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fe/6d/25/f6/fe6d25f6-a4aa-46a9-9966-3512e0bb2703.png" group-title="FIFA Live", 2 Plateaux FC v OFC Adiaké | Côte d'Ivoire Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3051fe0160a630018b9db6a2b43d1afa:36722bdc31af1706336c3d70ee5e87ed
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_21_32_1409ea3b-31ed-4bc1-9aec-08a0977268a1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779378540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c5/97/d7/e9/c597d7e9-6be8-4d2a-84ee-e7dda06510ab.png" group-title="FIFA Live", Luawa FC v East End Lions FC | Leone Rock Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e01b5651ed23e1e97651c43ca4d1d84:b5a0e1a0bb2bac68b02688f93ed31b52
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_01_24_1ab6af92-c561-4ef8-abef-02d065d1f536/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779380340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/de/d6/e7/c6/ded6e7c6-d294-4d49-b74a-42ce81b5343f.png" group-title="FIFA Live", SLIFA FC v Kamboi Eagles FC | Leone Rock Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66e6861657733848a067c16d6337dd9d:0bf2c2a89b6070023043c8ec7a7ba142
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_01_18_142ab460-f6c0-4e64-b059-6815dbebca3d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779380340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/13/b0/b8/46/13b0b846-6955-4567-b523-bb1073f8402c.png" group-title="FIFA Live", Wusum Stars FC v Bullom Stars FC | Leone Rock Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11f34bd0451739ba8c1c75c04afb8902:873461917a879a6163a7820549bc7b8e
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_01_30_f334d7cc-bb43-424c-a912-41e9bd437488/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779380340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/84/4c/d0/16/844cd016-cd9f-471d-a6ea-f5ba6710d7a7.png" group-title="FIFA Live", Stade Malien v US Bougouni | Ligue 1 Pro Orange 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74802f8c16da370bacd2b8481ec33f8b:350faebe60fdc5ef74a0795451bb2338
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_55_736e57cd-348a-429d-9e9f-a8f7d43feb56/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779380340
