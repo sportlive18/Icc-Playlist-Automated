@@ -1,10 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:45:19 AM 23-05-2026
+#last update time: 04:00:29 AM 23-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5a/ff/ec/39/5affec39-73f5-44f2-aa92-cf276eb4b434.png" group-title="FIFA Live", Monagas B v Ávila FC | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a31072adc3723f13aa6a6ce567dc8c06:8edeb2f56d25f83cbdd87a6868689268
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_20_05_a3958fe0-0ff8-4489-873b-9e4ee7300ccf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779477540
