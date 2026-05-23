@@ -1,43 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:17 PM 23-05-2026
+#last update time: 09:15:20 PM 23-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/17/59/15/e4/175915e4-236e-4066-a46d-1a9268dd5b68.png" group-title="FIFA Live", US Zilimadjou v Atomic Ngomé | Championnat des Comores Division I 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab9c94ac642f3b01a5936874ed2e3656:ebf87c82024a068c0035297b8bb18ba5
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_07_38_40_a77482b3-d4ba-4ae2-b9eb-135f34a27b07/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779536940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2b/f1/4c/b8/2bf14cb8-dc34-45a7-9640-f2f7f094b2ef.png" group-title="FIFA Live", Foresters FC v Cote D'Or FC | Seychelles Absa Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9016e03541b631e4834db9ce9655f825:3441d81b123a987f6ff448833896d96a
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_55_426443ff-4657-408c-9c7e-5a44c5918ae3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779536940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/65/9f/a7/50659fa7-09da-40c2-8bbd-a3ba9d4f8df9.png" group-title="FIFA Live", Blue Eagles v FCB Nyasa Big Bullets | FDH Bank Premiership
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a32e6482e2e435a0a1272282e621f631:452c6f08d18a499faef737fb4e5167e0
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_03_6377e884-d9a4-4aaf-b95e-2fa9d9a85163/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779538740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/96/d4/b9/55/96d4b955-69ca-4400-9c34-637d3553c713.png" group-title="FIFA Live", Kamuzu Barracks FC v Ekhaya FC | FDH Bank Premiership
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d20cf373d4a531b18c10d42f0bb689ad:7765cc081596ff45a244c8f13dea462b
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_09_f1a5f62d-e1e4-421f-95de-83dd401f3b5e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779538740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/12/ff/28/30/12ff2830-5aac-42fc-8ff4-6577ac555601.png" group-title="FIFA Live", Moyale Barracks v Creck Sporting FC | FDH Bank Premiership
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25ccbb1d028536f2a5b5d033ab195f72:9cd486f57b22da98cfb1988f72e00ada
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_00_47398d8e-f9c2-41e4-95b3-3e93b8131023/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779538740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5f/7f/81/ba/5f7f81ba-29e4-4643-a5c6-49b859a5bebd.png" group-title="FIFA Live", Red Lions v Mitundu Baptist | FDH Bank Premiership
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=48f1512dbdf636e0a96e5d90fe159d04:66bc437704452a088854bd96b25fd8f7
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_06_df8bfba8-000c-40fa-ad7c-2c9daed0a5f4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779538740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/52/f8/0d/87/52f80d87-70de-45bb-8415-716a12fcc41d.png" group-title="FIFA Live", Barberian FC v Transit Camp | Championship League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98b8cc49568f3221a0139b801122281f:f56d76371c045a540fb0d1a44b37550c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_09_31_21_497ce715-22a4-41ed-a7cd-82153db8db0f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aswa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779540540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ce/32/97/6a/ce32976a-ed24-4d4c-b26d-d69e0993a5ff.png" group-title="FIFA Live", Young Buffaloes FC v Ezulwini United FC | MTN Premier League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -48,3 +13,63 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_42_13_9cabc27d-85eb-40d4-8bfe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=046e0d890ed9332da5ede9356a2370ab:56a1c0da68d4b330d3f316890cbb507c
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_31_04_88a50ead-143a-4cc5-a10e-c7bd81bdd394/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abul%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779542340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/30/fb/5a/1f/30fb5a1f-7b28-411a-8877-3b5d582038f0.png" group-title="FIFA Live", FK Banga v FA Šiauliai | Moterų A lyga 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c071eb648413cc9ace1a42aeb9b4ff3:054f0324daf691829f41a86666f28f82
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_03_13_eaf44c63-85e7-4e4b-88ef-46d943e619c4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cd/f7/40/6e/cdf7406e-e470-4d3c-b9f3-f99b78297e93.png" group-title="FIFA Live", FK Žalgiris v Kauno rajono FA | Moterų A lyga 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66c38ea34d5838408b25c1b00b474a31:4b4a462cf62cb3335b17215ba6696808
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_02_59_b1727250-cdde-4202-ac37-14a49cfe365f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b3/b6/8c/94/b3b68c94-4991-4bf2-93ca-7018ec69e0ed.png" group-title="FIFA Live", Dibba Al-Hisn v Al Dhaid Club | Round 29 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3fdf202b7673032826ffefd75e0a91a:2a2ed6a26345c8f9bc461f3d67c6fb8b
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_10_47_3fe2581d-26a1-43a5-a12b-d7b779179f3e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/87/9c/82/48/879c8248-cdbb-4266-95e9-7b891f93ae86.png" group-title="FIFA Live", Emirates Club v Al Hamriyah | Round 29 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98725e7372d83ab49d97b203975769d2:68e8c85a3b08493b297c082cac915636
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_12_08_c329e329-e831-40a8-9482-d79ee5042b04/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1f/8c/47/f7/1f8c47f7-07be-4761-8788-279f98efdaf4.png" group-title="FIFA Live", Fujairah Club v Majd FC | Round 29 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=986762a02b2439a6b8cfddc771b2de8f:d4131a68f4737a1590d2518d231ddb10
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_11_43_65a07eff-1854-4045-a812-ae02f914cfb2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3f/54/be/a6/3f54bea6-02b1-4092-98f2-c989a798698f.png" group-title="FIFA Live", Gulf United v Al Orooba | Round 29 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14bca493aa423b438aff9473105458c7:f1959d0fd6c0641b5dc6fbdef716eafd
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_10_42_316e5021-9572-40f9-b9b1-3f6295670b01/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d1/8b/a5/a3/d18ba5a3-c566-4f93-ae05-220ac97667cc.png" group-title="FIFA Live", Hatta Club v Dubai City F.C. | Round 29 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=005ce1aab12e3007933021489e264826:de4cb2804f45c9a82b51bc7d7d16e1d4
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_11_59_ac9bd646-82de-486c-b091-5bc3338b646e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8a/5b/c0/0d/8a5bc00d-cb92-497a-9a7f-e6242da454ae.png" group-title="FIFA Live", Masfout Club v Al Arabi | Round 29 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93352febd1cb32fbbf8d6f8c4d75e296:bac8e693cfd10fff8a4391b372733f57
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_10_01_00434f39-80b5-4075-a93f-2942914887cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/58/f3/eb/c5/58f3ebc5-4e13-4606-8db4-29483d858fb1.png" group-title="FIFA Live", United Club v Al-Ittifaq | Round 29 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f444eb9aea2e381995ccb2daedfc84e0:a4a584ea8628a0aa9b9496014a451ed4
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_12_04_b8796328-a834-4aad-a9e8-d0bfd4ba0d16/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779545700
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/37/1d/f6/2b/371df62b-66b9-4895-8dee-e55c6cd3d9d4.png" group-title="FIFA Live", Deportivo Ebenezer v A.D.A.M.M. | Equatorial Guinea Football League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73d6f1ec1ab63df09da7c5e752a1a198:1d39822b5c7e72535087edda67e3c19e
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_13_13_f97b00f3-bec3-41a2-a31e-e3059bffed2f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779547740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5e/01/7a/32/5e017a32-e01d-4abf-87db-4cc6a1797ccf.png" group-title="FIFA Live", Bani Ganse FC v Coton FC | Ligue 1 2025
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba7a67a3739f357e8f2f3c0e8addfe6d:a455786bb555f01919a0b97f5c1877c4
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_46_59_0cae8f6c-8122-41a4-8112-8703380ef43d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779547740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/03/39/fd/78/0339fd78-60d9-4c74-8cc2-2ef7f0932057.png" group-title="FIFA Live", Sobemap FC v Buffles FC | Ligue 1 2025
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=588db24ad19e38c4a48338970ed5fdfa:1952c5c92ae4505b7421176e9a839fb8
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_47_02_940b680d-a22f-43d3-a4a4-f5671c871a60/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779547740
