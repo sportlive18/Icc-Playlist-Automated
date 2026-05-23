@@ -1,23 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:28 PM 23-05-2026
+#last update time: 07:45:17 PM 23-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ed/cf/ad/d4/edcfadd4-3ad0-4530-91e6-8b24b7fd19a4.png" group-title="FIFA Live", Minija v Tauras | Pirma Lyga 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2895f0e5ffbb3eae8035cbacb12891e7:9338af02cfc80a8adcdac5e923590573
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_07_32_42_e8835834-469a-489a-b505-214004115b0d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779533340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f5/83/ae/46/f583ae46-fbaf-4722-9a58-a4354f08e9ca.png" group-title="FIFA Live", Light Stars FC v St. Louis FC | Seychelles Absa Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f9265b021263eeb85de7dd2eeb4fa66:921bd14ff4fb6496be5cd87cbf39e890
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_52_d366f62d-52c9-4ad9-bfbf-ecf3cbb66f70/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779533340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/53/c9/bc/f6/53c9bcf6-cb4b-4fb4-9bca-c870abbb5ee9.png" group-title="FIFA Live", Dukagjini v KFV Prishtina | Siguria Superliga e Femrave 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc957946c8e036bbba75478d57758445:48cc5e5a3c95468d0c940b2fcafedecc
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_16_29_26_342982a0-2bba-40f0-91c2-57fe3cc688aa/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779533340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/17/59/15/e4/175915e4-236e-4066-a46d-1a9268dd5b68.png" group-title="FIFA Live", US Zilimadjou v Atomic Ngomé | Championnat des Comores Division I 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -28,3 +13,38 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_07_38_40_a77482b3-d4ba-4ae2-b9eb
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9016e03541b631e4834db9ce9655f825:3441d81b123a987f6ff448833896d96a
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_55_426443ff-4657-408c-9c7e-5a44c5918ae3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779536940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/65/9f/a7/50659fa7-09da-40c2-8bbd-a3ba9d4f8df9.png" group-title="FIFA Live", Blue Eagles v FCB Nyasa Big Bullets | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a32e6482e2e435a0a1272282e621f631:452c6f08d18a499faef737fb4e5167e0
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_03_6377e884-d9a4-4aaf-b95e-2fa9d9a85163/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779538740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/96/d4/b9/55/96d4b955-69ca-4400-9c34-637d3553c713.png" group-title="FIFA Live", Kamuzu Barracks FC v Ekhaya FC | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d20cf373d4a531b18c10d42f0bb689ad:7765cc081596ff45a244c8f13dea462b
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_09_f1a5f62d-e1e4-421f-95de-83dd401f3b5e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779538740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/12/ff/28/30/12ff2830-5aac-42fc-8ff4-6577ac555601.png" group-title="FIFA Live", Moyale Barracks v Creck Sporting FC | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25ccbb1d028536f2a5b5d033ab195f72:9cd486f57b22da98cfb1988f72e00ada
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_00_47398d8e-f9c2-41e4-95b3-3e93b8131023/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779538740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5f/7f/81/ba/5f7f81ba-29e4-4643-a5c6-49b859a5bebd.png" group-title="FIFA Live", Red Lions v Mitundu Baptist | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48f1512dbdf636e0a96e5d90fe159d04:66bc437704452a088854bd96b25fd8f7
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_06_df8bfba8-000c-40fa-ad7c-2c9daed0a5f4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779538740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/52/f8/0d/87/52f80d87-70de-45bb-8415-716a12fcc41d.png" group-title="FIFA Live", Barberian FC v Transit Camp | Championship League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98b8cc49568f3221a0139b801122281f:f56d76371c045a540fb0d1a44b37550c
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_09_31_21_497ce715-22a4-41ed-a7cd-82153db8db0f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aswa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779540540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ce/32/97/6a/ce32976a-ed24-4d4c-b26d-d69e0993a5ff.png" group-title="FIFA Live", Young Buffaloes FC v Ezulwini United FC | MTN Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b61145f310d3e7996891b0d1d297670:5039e0afcc6e47db1e6780c384efc3d4
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_42_13_9cabc27d-85eb-40d4-8bfe-ead187302c78/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779541140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8b/09/79/0c/8b09790c-6fa7-4124-9d55-b9e535719562.png" group-title="FIFA Live", FC Pirin v FC Puldin | Women's National Championship 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=046e0d890ed9332da5ede9356a2370ab:56a1c0da68d4b330d3f316890cbb507c
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_31_04_88a50ead-143a-4cc5-a10e-c7bd81bdd394/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abul%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779542340
