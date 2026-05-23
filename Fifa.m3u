@@ -1,15 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:25 AM 23-05-2026
+#last update time: 01:30:23 PM 23-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/28/ad/df/ba/28addfba-3a5c-4b07-be90-e63b033fb953.png" group-title="FIFA Live", Busan TC v Chuncheon FC | K3 League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4d7c88f55513900a110dec92ff51a9c:2604b1729329cdcd6c2b22cf6db83960
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_29_51_1ab595f5-a4bc-4880-b82a-604ba58f3ab4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779511740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/16/65/f7/a5/1665f7a5-0db8-488a-bb3d-3b7852addbeb.png" group-title="FIFA Live", Siheung City v Dangjin Citizen FC | K3 League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d7400650a553cbf8a2e2156514507be:481cd62d0c81e8e26d01e327335ed881
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_29_54_3399f176-c67b-4d8b-b887-3456c6499386/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779511740
