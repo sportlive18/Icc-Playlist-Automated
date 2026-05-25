@@ -1,55 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:15:17 PM 25-05-2026
+#last update time: 01:00:25 AM 26-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/18/a7/c4/dc/18a7c4dc-c83a-489f-8434-9b7d35664307.png" group-title="FIFA Live", AC Barracuda v Unisport FC | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b39c92790cc93ef19700823b93171f7f:f69f9f3120a4ae1d4f54b0ca5e1b5b6d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_00_5650b362-e90f-4c75-aabc-7e470ab5bda7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779722340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d7/08/08/16/d7080816-1d0f-4ecf-8e45-6945d8a6a885.png" group-title="FIFA Live", BST Galaxy v Real de Banjul | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c89adc748c838f882dc362c325517cc:eb18dff1616782371e5b43cf36a472b3
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_38_38_39032d01-d394-41cc-9324-6f3ea3da3ee0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779725940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5e/47/a5/0c/5e47a50c-4184-43d2-a386-7505e1448125.png" group-title="FIFA Live", Team Rhino v Falcons | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b649ff7be71e366f81fbfac5107074f4:076f8adc9f333e852414b57167fb0958
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_38_35_2f0d3a9c-b9cc-4a4e-a2c3-d43c70672f9b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779725940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/95/26/7c/91/95267c91-31f2-4ffe-86ce-952458959269.png" group-title="FIFA Live", FC Kallon v Wilberforce Strikers FC | Leone Rock Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1be1604b7cc13ac3ac6fae6820c96854:808ef25c922972d91f2a055fb0257808
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_31_5ed9eb90-7de5-4d88-94fc-1d6b340d48a8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779725940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4d/20/ff/c1/4d20ffc1-8284-4cfd-9f5e-e0ba75d1b8ae.png" group-title="FIFA Live", Mighty Blackpool FC v Abacha City FC | Leone Rock Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6fa5793caa2d363f8a677a867b61128b:28e18f1ea285a76352409db8191c07d1
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_37_70fb116c-000e-465a-a8c4-7d946e5e576f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779725940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/57/6a/47/d4/576a47d4-04fe-4a15-b861-964c45d64b20.png" group-title="FIFA Live", AS Bakaridjan v Djoliba AC | Ligue 1 Pro Orange 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7645a847ec73fa782b3ab0cc0a9770f:503ab905642218549c47791cc19b9457
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_58_03_af616347-2ebc-491b-bc8b-5940146ba0e8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779725940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/21/b0/93/37/21b09337-311c-4b15-a229-68065481cc72.png" group-title="FIFA Live", FC Diarra v ASKO | Ligue 1 Pro Orange 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c05fb136d17b377a9bad844b012b5019:0c68e91e7cb0d7d45c5878ebda5944ae
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_57_58_3e8787f7-f81d-4528-a73e-38761d8b9fca/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779725940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c0/49/4d/5d/c0494d5d-e492-416d-87df-afbaebb339b9.png" group-title="FIFA Live", Brikama United v Fortune | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ac78785ba1e3ac48af830df60b4c0f9:9e691a9f8399ffaa90de49e65eebacda
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_38_50_6b85d418-bc8b-4e98-a2fb-fed1aa438421/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779726000
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a8/cf/33/f7/a8cf33f7-1e28-48f5-8d83-b6d0e1ea29bc.png" group-title="FIFA Live", ASC Gendrim v ASC Police | Super D-1 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85b92711674d39919323d991d509a17e:9b4f2df9d968d12776584c5c8d727d7b
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_25_03_a2c9b2fe-179f-4db4-a973-0bb3f4d2d08a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779726840
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/70/c2/d8/70/70c2d870-d876-42ff-a8f5-9c1e4f13cdc8.png" group-title="FIFA Live", Bombada v Gambia Ports Authority FC | Gambia GFF League 25/26
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/38/5d/b2/12/385db212-9026-4e43-91ae-6582dae0e2b8.png" group-title="FIFA Live", USFAS v US Bougouba | Ligue 1 Pro Orange 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c0b2aeb4c393414a276e75b41f49753:0cc3465161d8e5de72269add0754cd49
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_38_47_5ec92f9a-d60a-4b53-80db-ee3eeb6f2685/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779727080
+#KODIPROP:inputstream.adaptive.license_key=6eca7e43308b34e7bbfe81888d3accb4:4460f5365cdce62c67642ae2279f44e0
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_58_06_093f093f-da9c-4482-a737-1555c2a7fcfb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779733740
