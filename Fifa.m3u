@@ -1,30 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:17 AM 25-05-2026
+#last update time: 10:45:18 AM 25-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/2f/1e/6c/502f1e6c-5893-4d6b-af22-48279ef29af9.png" group-title="FIFA Live", Lymers FC v West End Predators  | Anguilla Senior Men's League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34cb873b63e833a5a2be7e9af85e5c7d:d10370b0df3dc6a480c97c7801f1bcf8
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_28_49_efffb2ee-7085-4371-8927-94ac012efaa0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ef/98/82/b1/ef9882b1-3509-4c83-b264-0034d89c5cb2.png" group-title="FIFA Live", Paradise FC v Brittons Hill FC | BFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e8fbdcb232635278756cb86e1ac9c90:a48984c81a1f2ad20504145355ca0174
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_06_02_04f8f61a-43a8-4972-b9d2-b3218084a4fa/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5e/78/4d/59/5e784d59-cf33-42c2-964d-771f3ce8736b.png" group-title="FIFA Live", Pointe Michel FC v Mahaut Soca Strikers FC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ce90304157e38afb292cd8739dfaf94:9dd2e3d77dd705a991a75a6a12dae01d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_41_1a9c6df6-ad9e-4579-806e-66612fe7edfe/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779661140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0c/76/5e/91/0c765e91-a086-4735-bc92-fedd53bc4d0f.png" group-title="FIFA Live", Robinhood v Broki | Suriname Major League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=303bdb5ea4493263925ca891c0b034ed:c0c4d2ae5d223ff5fbfeb1f6cb74e4ef
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_12_54_39_f68d0d8a-daf6-4784-ada1-4e7d6a11d4b6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779662940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/81/8a/24/32/818a2432-20b2-4692-b27e-efc3fbeca9f8.png" group-title="FIFA Live", Caiquetio v Brazil Juniors | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6e3c0e32bf723fcf9a88ee2b2882ec7b:c2634eac2c90889083fd40cc7c4f7631
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_25_0d7aa3bc-0a9a-45d2-bc3a-9c282f01c24f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779666540
