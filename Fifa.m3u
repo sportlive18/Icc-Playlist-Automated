@@ -1,5 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:25 AM 26-05-2026
+#last update time: 06:15:16 AM 26-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/03/cb/11/bc/03cb11bc-9c30-425d-92ec-e5fa842e5d0b.png" group-title="FIFA Live", C.R.K.S.V. Jong Holland v R.K.S.V. Centro Dominguito | Curaçao Promé Divishon 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f3fe31e65e836a3945b6c9c13c3ea3d:f9b5b1b6240796d77755180550b3e457
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_12_13_a5e45a3b-8993-4a78-b5ee-b6e9abec8d0c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779752940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fe/77/8f/9c/fe778f9c-0381-4237-81f3-83f95daa5f89.png" group-title="FIFA Live", RKSV Scherpenheuvel v Inter Willemstad | Curaçao Promé Divishon 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d8206de5dbb3ea8a12969ef14a83404:e9e6c9aa7e006ceac1b0536a4cb3a5b7
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_12_11_8d9107d0-dc3f-4e1e-9303-ff663575f26a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779752940
