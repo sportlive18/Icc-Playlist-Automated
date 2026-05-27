@@ -1,10 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:15:18 AM 27-05-2026
+#last update time: 02:15:21 PM 27-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/62/2d/48/89/622d4889-80b4-4284-aeda-de7b4eb0e0e5.png" group-title="FIFA Live", Wotton FC v Bagatelle FC | BFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfc3d04347163265a6916000158424ad:fde2c7c99686168a3acf21b4eded1db8
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_25_12_23_18_8c57ac9d-19f3-46e1-9760-84b66d28aa27/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779842940
